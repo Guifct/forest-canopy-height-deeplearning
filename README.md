@@ -36,7 +36,7 @@ All model tiers described and evaluated in Chapters 4, 5, and 6 of the dissertat
    - **Raster Alignment**: Automated harmonisation of multi-sensor bands into aligned stacks at 10 m resolution.
 
 2. **Recursive Feature Elimination (RFE)** (`experiments/rfe/`):
-   - Automated backward elimination pruning channels from 72 down to the optimal 42 bands.
+   - Automated backward elimination pruning channels from 302 down to the optimal 42 bands.
    - Preserves high predictive power while removing redundant multi-temporal channels.
 
 3. **Ablation Studies & Mitigation Strategies** (`experiments/ablations/`):
