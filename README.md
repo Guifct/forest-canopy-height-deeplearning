@@ -113,7 +113,7 @@ trabalho git/
 
 ### 1. Installation
 ```bash
-git clone https://github.com/guilherme-bento/forest-canopy-height-deeplearning.git
+git clone https://github.com/Guifct/forest-canopy-height-deeplearning.git
 cd forest-canopy-height-deeplearning
 
 python -m venv venv
