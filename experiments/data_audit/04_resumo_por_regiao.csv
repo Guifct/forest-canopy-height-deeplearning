@@ -1,0 +1,6 @@
+region,n_samples,target_min_m,target_mean_m,target_median_m,target_max_m,target_std_m
+Mafra,463,2.54,11.692203,10.93,36.34,5.966069
+Monsanto,455,2.54,14.85044,14.09,37.62,6.333048
+Pombal,850,2.58,12.820505,12.43,41.9,6.0667477
+SintraCascais,736,2.5,15.339321,15.01,63.93,8.062226
+VPA,535,2.54,11.390879,10.08,38.18,6.1114354

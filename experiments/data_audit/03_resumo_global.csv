@@ -1,0 +1,2 @@
+n_samples,n_channels,patch_height,patch_width,target_min_m,target_q05_m,target_mean_m,target_median_m,target_q95_m,target_max_m,target_std_m,x_nan_pct,x_inf_count
+3039,302,15,15,2.5,3.9290000677108767,13.310869216918945,12.609999656677246,25.551999282836913,63.93000030517578,6.814345359802246,0.006138981564411243,0

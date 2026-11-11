@@ -1,0 +1,6 @@
+area,n_loaded,n_no_target,n_read_errors,patch_shapes_seen,n_valid_bands,n_removed_leakage_bands
+Mafra,463,0,0,"{""(302, 15, 15)"": 463}",302,4
+Monsanto,455,0,0,"{""(302, 15, 15)"": 455}",302,4
+Pombal,850,0,0,"{""(302, 15, 15)"": 850}",302,4
+SintraCascais,736,0,0,"{""(302, 15, 15)"": 736}",302,4
+VPA,535,0,0,"{""(302, 15, 15)"": 535}",302,4

@@ -1,0 +1,5 @@
+sensor_group,n_channels,mean_nan_pct,n_constant_channels
+S2,137,0.013168629391311172,0
+ALOS2,73,0.0006811501219809649,0
+S1GRD,68,2.1506902640402436e-06,0
+S1SLC,24,0.0,0
